@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @arittragit19
+- 📚 Studying at Banasthali Vidyapith.
 - 👀 I’m interested in Web Development,C,C++,Python.
 - 🌱 I’m currently learning DSA, Java, SQL.
 - 😄 Pronouns: she/her.
